@@ -1,5 +1,6 @@
 # Excel--Vrinda-Store-Data-Analysis
 Vrinda Store analysis and Dashboard using Advanced Excel
+I developed a comprehensive annual report dashboard using Excel. This dashboard provides a detailed analysis of various sales metrics and performance indicators. This dashboard effectively visualizes key data, enabling strategic insights into customer demographics, sales performance, and channel efficiency. My role involved data extraction, cleaning, and visualization to deliver actionable business intelligence.
 
  # Vrinda Store Data Analysis
 
